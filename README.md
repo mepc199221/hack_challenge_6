@@ -17,6 +17,7 @@
 | hack_backend_python_1⚡ | https://github.com/mepc199221/hack_backend_python_1 |
 
 # Test de python
-<img width="1324" height="478" alt="image" src="https://github.com/user-attachments/assets/fd3ce11d-4cb9-4ada-aa68-032eea41852c" />
+<img width="747" height="107" alt="image" src="https://github.com/user-attachments/assets/5cd6d488-14c7-4219-bef6-4d661fe48435" />
+
 
 Detalle: https://github.com/SocialOplesk/hack_backend_python_1
